@@ -1,0 +1,3 @@
+[submodule "driver/include/hardware.inc"]
+	path = driver/include/hardware.inc
+	url = https://github.com/gbdev/hardware.inc.git
