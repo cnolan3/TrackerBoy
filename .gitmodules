@@ -1,0 +1,3 @@
+[submodule "tby-player"]
+	path = tby-player
+	url = git@github.com:cnolan3/tby-player.git
